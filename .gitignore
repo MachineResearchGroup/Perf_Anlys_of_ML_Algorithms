@@ -1,0 +1,7 @@
+/.idea/
+*.class
+*.pyc
+*.xml
+/.vscode/
+/env/
+/.mypy_cache/
